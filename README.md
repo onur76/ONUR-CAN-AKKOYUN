@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Gokhan Asilturk
-- 👀 I’m interested in cyber security, artificial intelligence, robotic coding
+- 👋 Hi, I’m Onur Can AKKOYUN
 - 🌱 I’m currently learning Java
-- 📫 gokhanasilturkk@gmail.com
+- 📫 akkoyunonurcan@gmail.com
