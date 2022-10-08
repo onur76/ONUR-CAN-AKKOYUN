@@ -25,5 +25,5 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vkppjr6meqlow8h7ra9ik62h9&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=vkppjr6meqlow8h7ra9ik62h9&redirect=true)
 
-<h3 align="left">Support:</h3>
+<h3 align="left">Support me:</h3>
 <p><a href="https://www.buymeacoffee.com/akkoyunonur"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="akkoyunonur" /></a></p><br><br>
