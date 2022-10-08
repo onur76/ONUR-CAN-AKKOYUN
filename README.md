@@ -22,6 +22,7 @@
 <br>
 
 <h3 align="left">Spotify Playing 🎧</h3>
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vkppjr6meqlow8h7ra9ik62h9&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=vkppjr6meqlow8h7ra9ik62h9&redirect=true)
 
 <h3 align="left">Support:</h3>
