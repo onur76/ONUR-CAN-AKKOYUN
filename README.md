@@ -6,7 +6,7 @@
 
  🔭 I’m currently working on **Java**
 
- 🌱 I’m currently learning **Spring Boot, React, HTML, CSS, JavaScript**
+ 🌱 I’m currently learning **Spring Boot, React, JavaScript**
 
  📫 How to reach me **akkoyunonurcan@gmail.com**
 <br>
