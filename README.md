@@ -28,7 +28,3 @@
 
 <h3 align="left">Support me:</h3>
 <p><a href="https://www.buymeacoffee.com/akkoyunonur"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="akkoyunonur" /></a></p><br><br><br>
-
-<div align="left">
-<img src="https://komarev.com/ghpvc/?username=onurakkoyun&&style=flat-square" align="center" />
-</div>  
